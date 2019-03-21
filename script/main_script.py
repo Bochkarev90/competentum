@@ -7,6 +7,6 @@ def script():
     mf.course_choice()
     mf.chapter_entry()
     mf.modules_list_compare()
-    # mf.module_titles_verification()
+    mf.module_titles_verification()
     mf.click_through()
-    # mf.logout()
+    mf.logout()
